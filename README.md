@@ -8,9 +8,11 @@ screen with the ability to move it to the left, right, up, and down according to
 of arrows. 
 To clarify things, consider the following input paragraph:
 
-We have the numbers one, two, and three, please do add operation on them.
+<b>We have the numbers one, two, and three, please do add operation on them.</b>
 
 The output of the program should be as following:
            
            
            1+2+3=6
+
+For this we need to have 'emu8086'.
