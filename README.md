@@ -7,7 +7,9 @@ be (add only). The result of the operation should be printed in the center of th
 screen with the ability to move it to the left, right, up, and down according to the movement 
 of arrows. 
 To clarify things, consider the following input paragraph:
+
 We have the numbers one, two, and three, please do add operation on them.
+
 The output of the program should be as following:
            
            
